@@ -1,9 +1,9 @@
 <?php
 	class Database {
-		private $hostname = 'localhost';
-		private $username = 'root';
-		private $pass = '';
-		private $dbname = 'mvc';
+		private $hostname = 'ec2-34-232-212-164.compute-1.amazonaws.com';
+		private $username = 'ykuuzflcyqrygr';
+		private $pass = 'ba6b1388e76904b06712572a99c424bcf6714e7058a2a8738e147ea22d161207';
+		private $dbname = 'd33q1ni6h0nvha';
 
 
 		private $conn = NULL;
