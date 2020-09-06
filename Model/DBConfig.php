@@ -1,6 +1,6 @@
 <?php
 	class Database {
-		private $hostname = 'ec2-34-232-212-164.compute-1.amazonaws.com';
+		private $hostname = 'ec2-34-232-212-164.compute-1.amazonaws.com:5432';
 		private $username = 'ykuuzflcyqrygr';
 		private $pass = 'ba6b1388e76904b06712572a99c424bcf6714e7058a2a8738e147ea22d161207';
 		private $dbname = 'd33q1ni6h0nvha';
